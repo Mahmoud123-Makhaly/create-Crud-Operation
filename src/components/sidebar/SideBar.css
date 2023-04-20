@@ -1,0 +1,23 @@
+.sidebar{
+    width: 17%;
+    background-color: #ece2ff ;
+    
+}
+.sidebar ul{
+    list-style: none;
+  padding: 0;
+   
+}
+ 
+ .sidebar ul li a{
+    text-decoration: none;
+    color: #6c757d ;
+    display: block;
+    padding: 15px 10px;
+    font-size: 17px;
+    font-weight: bold;
+    text-align: center;
+    border-bottom: 1px solid #f8f9fa ;
+    width: 100%;
+    font-weight: bold;
+ }

@@ -1,0 +1,12 @@
+.VeiwData{
+    width:80%
+}
+.VeiwData .card{
+    width: 50%;
+    margin: auto;
+    text-align: center;
+}
+.VeiwData .card img{
+    height: 300px;
+    width: 100%;
+}
