@@ -1,0 +1,15 @@
+.view{
+    padding: 10px;
+ height: 100vh;
+max-width: 100%;
+display: flex;
+justify-content: center;
+ 
+ }
+ .card{
+    width: 40%;
+ 
+ }
+ .card img{
+    max-height: 70%;
+ }

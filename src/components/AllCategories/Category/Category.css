@@ -1,0 +1,8 @@
+.category{
+    padding: 10px;
+ height: 100vh;
+max-width: 100%;
+}
+.categories th , td{
+width: 25%;
+}

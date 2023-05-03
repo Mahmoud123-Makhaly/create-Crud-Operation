@@ -1,0 +1,8 @@
+.addproduct{
+    padding: 10px;
+ height: 100vh;
+max-width: 100%;
+}
+table tr , table td{
+    width: 25%;
+}
